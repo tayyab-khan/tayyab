@@ -1,0 +1,12 @@
+name = "Node module exception tests"
+description = "Support module for node related exception testing."
+package = Testing
+version = VERSION
+core = 7.x
+hidden = TRUE
+
+; Information added by  packaging script on 2013-12-04
+version = "7.24+29-dev"
+project = "drupal"
+datestamp = "1386118107"
+

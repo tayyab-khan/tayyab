@@ -1,0 +1,12 @@
+name = Minimal
+description = Start with only a few modules enabled.
+version = VERSION
+core = 7.x
+dependencies[] = block
+dependencies[] = dblog
+
+; Information added by  packaging script on 2013-12-04
+version = "7.24+29-dev"
+project = "drupal"
+datestamp = "1386118107"
+

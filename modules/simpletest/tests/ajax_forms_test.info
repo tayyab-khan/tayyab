@@ -1,0 +1,12 @@
+name = "AJAX form test mock module"
+description = "Test for AJAX form calls."
+core = 7.x
+package = Testing
+version = VERSION
+hidden = TRUE
+
+; Information added by  packaging script on 2013-12-04
+version = "7.24+29-dev"
+project = "drupal"
+datestamp = "1386118107"
+
